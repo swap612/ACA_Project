@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
+
 #define L3_SETS 2048
-#define L3_WAYS 8
+#define L3_WAYS 16
 
 class LLC
 {
@@ -9,7 +10,12 @@ class LLC
      unsigned long long tags[L3_SETS][L3_WAYS];
      unsigned long long int timeStamp[L3_SETS][L3_WAYS];
      unsigned long long hitCount, missCount;
-   
+ 
+  LLC(){
+    hitCount = 0;
+    missCount = 0;
+    reset();
+  } 
    void reset()
    {
     //clearing L3 cache
@@ -29,6 +35,7 @@ class LLC
     }
    }
   }
+  
 void print()
 {
 printf("--------------L3_DATA-----------\n");

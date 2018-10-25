@@ -2,7 +2,7 @@
 using namespace std;
 
 
-#define L2_SETS 2048
+#define L2_SETS 1024
 #define L2_WAYS 8
 
 class L2
@@ -11,7 +11,11 @@ class L2
      unsigned long long tags[L2_SETS][L2_WAYS];
      unsigned long long int timeStamp[L2_SETS][L2_WAYS];
      unsigned long long hitCount,missCount;
-   
+   L2(){
+    hitCount = 0;
+    missCount = 0;
+    reset();
+  } 
    void reset()
    {
     //clearing L2 cache

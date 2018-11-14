@@ -1,0 +1,7 @@
+
+
+Using MSI POLICY L2[0]Hit:5449400 L2 Miss:31269 L2[0]:waiting time179065
+ L2[1]Hit:164219897 L2 Miss:47439 L2[1]:waiting time403560
+ L2[2]Hit:163978733 L2 Miss:494123 L2[2]:waiting time4711460
+ L2[3]Hit:163768264 L2 Miss:500103 L2[3]:waiting time4829585
+ L3 Hit:8562 L3 Miss: 21269 Bus transactions: 3990284 Cache reads: 1995142 Total bus wait time: 10124570 mem_write 965396 invalidation 1005100

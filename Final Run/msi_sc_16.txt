@@ -1,0 +1,19 @@
+
+
+Using MSI POLICY L2[0]Hit:5473480 L2 Miss:32051 L2[0]:waiting time183275
+ L2[1]Hit:49545835 L2 Miss:656231 L2[1]:waiting time4688775
+ L2[2]Hit:48491272 L2 Miss:789949 L2[2]:waiting time5898255
+ L2[3]Hit:48473856 L2 Miss:797060 L2[3]:waiting time5958235
+ L2[4]Hit:48351037 L2 Miss:800783 L2[4]:waiting time5990325
+ L2[5]Hit:48528338 L2 Miss:793818 L2[5]:waiting time5937490
+ L2[6]Hit:48477644 L2 Miss:790440 L2[6]:waiting time5916845
+ L2[7]Hit:48523961 L2 Miss:785975 L2[7]:waiting time5882175
+ L2[8]Hit:48438056 L2 Miss:792098 L2[8]:waiting time5917695
+ L2[9]Hit:48391181 L2 Miss:791402 L2[9]:waiting time5912575
+ L2[10]Hit:48478856 L2 Miss:790955 L2[10]:waiting time5910110
+ L2[11]Hit:48501044 L2 Miss:787870 L2[11]:waiting time5896450
+ L2[12]Hit:48416609 L2 Miss:799205 L2[12]:waiting time5960450
+ L2[13]Hit:48543004 L2 Miss:791170 L2[13]:waiting time5911955
+ L2[14]Hit:48550107 L2 Miss:786524 L2[14]:waiting time5885055
+ L2[15]Hit:48505593 L2 Miss:784201 L2[15]:waiting time5868570
+ L3 Hit:5764 L3 Miss: 21911 Bus transactions: 35033834 Cache reads: 17516917 Total bus wait time: 87722735 mem_write 6411234 invalidation 11686607

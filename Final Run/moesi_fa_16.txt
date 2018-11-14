@@ -1,0 +1,19 @@
+
+
+Using MESI POLICY L2[0]Hit:110460571 L2 Miss:2398217 L2[0]:waiting time11991085
+ L2[1]Hit:37543687 L2 Miss:99816 L2[1]:waiting time544940
+ L2[2]Hit:34006259 L2 Miss:86444 L2[2]:waiting time472335
+ L2[3]Hit:36849555 L2 Miss:93176 L2[3]:waiting time508405
+ L2[4]Hit:37683351 L2 Miss:91061 L2[4]:waiting time490275
+ L2[5]Hit:32813138 L2 Miss:94708 L2[5]:waiting time528440
+ L2[6]Hit:26360965 L2 Miss:76572 L2[6]:waiting time428145
+ L2[7]Hit:28827011 L2 Miss:85742 L2[7]:waiting time471575
+ L2[8]Hit:32258677 L2 Miss:86231 L2[8]:waiting time474610
+ L2[9]Hit:36085905 L2 Miss:104108 L2[9]:waiting time604990
+ L2[10]Hit:29101999 L2 Miss:88590 L2[10]:waiting time518405
+ L2[11]Hit:32287294 L2 Miss:101534 L2[11]:waiting time583445
+ L2[12]Hit:35899850 L2 Miss:92592 L2[12]:waiting time507185
+ L2[13]Hit:35921077 L2 Miss:92273 L2[13]:waiting time499045
+ L2[14]Hit:31476608 L2 Miss:82784 L2[14]:waiting time461975
+ L2[15]Hit:34547728 L2 Miss:92845 L2[15]:waiting time512375
+ L3 Hit:52504 L3 Miss: 3376621 Bus transactions: 990836 Cache reads: 483233 Total bus wait time: 19601730 mem_write 2298272 invalidation 209115

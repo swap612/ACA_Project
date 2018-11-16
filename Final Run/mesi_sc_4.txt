@@ -1,7 +1,0 @@
-
-
-Using MESI POLICY L2[0]Hit:5449400 L2 Miss:31269 L2[0]:waiting time156450
- L2[1]Hit:164209171 L2 Miss:58165 L2[1]:waiting time477870
- L2[2]Hit:164010257 L2 Miss:462599 L2[2]:waiting time4388080
- L2[3]Hit:163817097 L2 Miss:451270 L2[3]:waiting time4337975
- L3 Hit:8237 L3 Miss: 21269 Bus transactions: 3685620 Cache reads: 1842810 Total bus wait time: 9361275 mem_write 886779 invalidation 936531

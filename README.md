@@ -1,5 +1,5 @@
 # ACA_Project
-Project - TSimulating the cache coherance protocol MSI, MESI and MOESI. <br>
+Simulating the cache coherance protocol MSI, MESI and MOESI. <br>
 Setting the Parameters for Cache Simulators:
 1. Set L2_SETS and L2_WAYS in L2.h
 2. Set L3_SETS and L3_WAYS in LLC.h
